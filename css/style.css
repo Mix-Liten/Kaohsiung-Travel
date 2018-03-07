@@ -226,6 +226,7 @@ footer h6 {
 footer p {
     font-size: 28px;
     color: #FFD366;
+    margin-bottom: 0;
 }
 
 footer p a {
